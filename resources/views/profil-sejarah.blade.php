@@ -5,7 +5,7 @@
             {{ $title }}
         </h4>
         <div class="d-flex justify-content-center">
-            <p class="px-3 px-md-5 text-justify" style="max-width: 800px; text-align: justify; text-indent: 2em;">
+            <p class="px-3 px-md-5 text-justify" style="max-width: 1000px; text-align: justify; text-indent: 2em;">
                 {{ $content }}
             </p>
         </div>
